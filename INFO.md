@@ -16,4 +16,4 @@ I am also interested in building and teaching artificial intelligence. Related t
 
 Projects - - - - - - - - - - - -
 
-              - Artificial intelligence "A.I" for brain tumor diagnosis using MIR (NOT-OpenSurce)
+              - Artificial intelligence "A.I" for brain tumor diagnosis using MIR (NOT-OpenSource)
